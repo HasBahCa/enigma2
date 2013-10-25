@@ -652,7 +652,7 @@ msgstr ""
 "TV fonksiyonu devre dışı bırakılıp tekrar denensin mi?\n"
 
 msgid "A/V settings"
-msgstr ""
+msgstr "A/V Ayarları"
 
 #
 msgid "AA"
@@ -673,7 +673,7 @@ msgstr ""
 
 #, python-format
 msgid "AV aspect is %s."
-msgstr ""
+msgstr "AV orantısı %s."
 
 #
 msgid "Abort"
